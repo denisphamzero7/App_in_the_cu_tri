@@ -1,0 +1,68 @@
+{
+    "don_vi": {
+        "x": 200,
+        "y": 150,
+        "size": 30
+    },
+    "ho_ten": {
+        "x": 250,
+        "y": 380,
+        "size": 35
+    },
+    "ngay_sinh": {
+        "x": 350,
+        "y": 420,
+        "size": 25
+    },
+    "gioi_tinh": {
+        "x": 350,
+        "y": 450,
+        "size": 25
+    },
+    "noi_cu_tru": {
+        "x": 350,
+        "y": 480,
+        "size": 25
+    },
+    "so_cccd": {
+        "x": 350,
+        "y": 510,
+        "size": 25
+    },
+    "so_the_cu_tri": {
+        "x": 250,
+        "y": 571,
+        "size": 24
+    },
+    "khu_vuc_bo_phieu": {
+        "x": 300,
+        "y": 600,
+        "size": 25
+    },
+    "xa_phuong": {
+        "x": 300,
+        "y": 630,
+        "size": 25
+    },
+    "tinh_thanh": {
+        "x": 300,
+        "y": 660,
+        "size": 25
+    },
+    "ngay_thang_nam_ky": {
+        "x": 650,
+        "y": 570,
+        "size": 20
+    },
+    "ten_nguoi_ky": {
+        "x": 700,
+        "y": 700,
+        "size": 25
+    },
+    "chu_ky_anh": {
+        "x": 700,
+        "y": 620,
+        "w": 150,
+        "h": 80
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "global": {
+        "signature_img": {
+            "x": 477,
+            "y": 625,
+            "w": 150,
+            "h": 65,
+            "enable": true,
+            "type": "image"
+        },
+        "Stt": {
+            "x": 50,
+            "y": 50,
+            "size": 30,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text"
+        },
+        "Tên đơn vị": {
+            "x": 191,
+            "y": 159,
+            "size": 12,
+            "enable": true,
+            "font": "Times New Roman",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Họ tên": {
+            "x": 224,
+            "y": 329,
+            "size": 12,
+            "enable": true,
+            "font": "Times New Roman",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Ngày sinh": {
+            "x": 306,
+            "y": 358,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Giới tính": {
+            "x": 204,
+            "y": 384,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Nơi cư trú": {
+            "x": 228,
+            "y": 410,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Số cccd": {
+            "x": 234,
+            "y": 436,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Số thẻ cử tri": {
+            "x": 256,
+            "y": 482,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Khu vực bỏ phiếu": {
+            "x": 303,
+            "y": 505,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Thành phố": {
+            "x": 222,
+            "y": 574,
+            "size": 12,
+            "enable": true,
+            "font": "Times New Roman",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Người ký": {
+            "x": 473,
+            "y": 667,
+            "size": 18,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        },
+        "Hình ảnh chữ ký": {
+            "x": 50,
+            "y": 50,
+            "size": 30,
+            "enable": false,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text"
+        },
+        "Xã/phường/đặc khu": {
+            "x": 260,
+            "y": 529,
+            "size": 12,
+            "enable": true,
+            "font": "Arial",
+            "color": "Black",
+            "type": "text",
+            "bold": false,
+            "upper": false
+        }
+    },
+    "custom": {
+        "0": {
+            "signature_img": {
+                "x": 479,
+                "y": 623,
+                "w": 150,
+                "h": 80,
+                "enable": true,
+                "type": "image",
+                "path": "C:/Users/Admin/Documents/TINTUC/ca3.jpg"
+            }
+        },
+        "1": {
+            "signature_img": {
+                "x": 477,
+                "y": 625,
+                "w": 150,
+                "h": 65,
+                "enable": true,
+                "type": "image",
+                "path": "C:/Users/Admin/Documents/TINTUC/cchan.png"
+            }
+        }
+    }
+}
