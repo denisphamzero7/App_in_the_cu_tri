@@ -1,8 +1,8 @@
 {
     "global": {
         "signature_img": {
-            "x": 477,
-            "y": 625,
+            "x": 479,
+            "y": 623,
             "w": 150,
             "h": 65,
             "enable": true,
@@ -30,7 +30,7 @@
         },
         "Họ tên": {
             "x": 224,
-            "y": 329,
+            "y": 332,
             "size": 12,
             "enable": true,
             "font": "Times New Roman",
@@ -40,8 +40,8 @@
             "upper": false
         },
         "Ngày sinh": {
-            "x": 306,
-            "y": 358,
+            "x": 303,
+            "y": 361,
             "size": 12,
             "enable": true,
             "font": "Arial",
@@ -73,8 +73,8 @@
             "upper": false
         },
         "Số cccd": {
-            "x": 234,
-            "y": 436,
+            "x": 236,
+            "y": 434,
             "size": 12,
             "enable": true,
             "font": "Arial",
@@ -95,8 +95,8 @@
             "upper": false
         },
         "Khu vực bỏ phiếu": {
-            "x": 303,
-            "y": 505,
+            "x": 297,
+            "y": 507,
             "size": 12,
             "enable": true,
             "font": "Arial",
@@ -169,6 +169,17 @@
                 "enable": true,
                 "type": "image",
                 "path": "C:/Users/Admin/Documents/TINTUC/cchan.png"
+            }
+        },
+        "2": {
+            "signature_img": {
+                "x": 477,
+                "y": 625,
+                "w": 150,
+                "h": 65,
+                "enable": true,
+                "type": "image",
+                "path": "C:/Users/Admin/Documents/TINTUC/hd.png"
             }
         }
     }
